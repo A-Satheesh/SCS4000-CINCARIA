@@ -1,0 +1,65 @@
+ptp (x=55555, y=55555, z=55555; sp =55555)
+
+ptp (x=0, y=0, z=0; sp =0)
+
+ptp(x=134479, y=-46394, z=0; sp=100)
+ptp(x=134479, y=-46394, z=-20000; sp=150)
+
+contibuffer
+
+dispenseon
+
+delay(1.000)
+
+line3D(x=0, y=-62680, z=0)
+line3D(x=0, y=0, z=4)
+segmentproperty3D(sp=50; 1; 1)
+
+segmentproperty3D(sp=1; 0; 2)
+dispenseoff
+delay(1.000)
+ptp(x=134479, y=-109074, z=-20000; sp=10)
+ptp(x=134479, y=-109074, z=-20000; sp=150)
+
+ptp (x=0, y=0, z=0; sp =90)
+
+ptp(x=134479, y=-130511, z=-20000; sp=100)
+ptp(x=134479, y=-130511, z=-20000; sp=150)
+
+contibuffer
+
+dispenseon
+
+delay(1.000)
+
+line3D(x=100464, y=0, z=0)
+line3D(x=0, y=0, z=4)
+segmentproperty3D(sp=50; 1; 1)
+
+segmentproperty3D(sp=1; 0; 2)
+dispenseoff
+delay(1.000)
+ptp(x=234943, y=-130511, z=-20000; sp=10)
+ptp(x=234943, y=-130511, z=-20000; sp=150)
+
+ptp (x=0, y=0, z=0; sp =0)
+
+ptp(x=234943, y=-180834, z=-20000; sp=100)
+ptp(x=234943, y=-180834, z=-20000; sp=150)
+
+contibuffer
+
+dispenseon
+
+delay(1.000)
+
+line3D(x=0, y=83061, z=0)
+line3D(x=0, y=0, z=4)
+segmentproperty3D(sp=50; 1; 1)
+
+segmentproperty3D(sp=1; 0; 2)
+dispenseoff
+delay(1.000)
+ptp(x=234943, y=-97773, z=-20000; sp=10)
+ptp(x=234943, y=-97773, z=-20000; sp=150)
+

@@ -1,0 +1,208 @@
+ptp (x=55555, y=55555, z=55555; sp =55555)
+
+ptp (x=00000, y=00000, z=00000; sp =10101)
+
+ptp (x=11111, y=11111, z=11111; sp =11111)
+
+ptp(x=41181, y=-154879, z=0; sp=100)
+ptp(x=41181, y=-154879, z=-144; sp=150)
+
+contibuffer
+
+dispenseon
+
+delay(1.000)
+line3D(x=-289, y=1621,z=0)
+line3D(x=53, y=1646,z=0)
+line3D(x=393, y=1599,z=0)
+line3D(x=714, y=1484,z=0)
+line3D(x=1006, y=1304,z=0)
+line3D(x=1254, y=1067,z=0)
+line3D(x=1447, y=785,z=0)
+line3D(x=1579, y=469,z=0)
+line3D(x=1641, y=132,z=0)
+line3D(x=1633, y=-210,z=0)
+line3D(x=1555, y=-543,z=0)
+line3D(x=1408, y=-853,z=0)
+line3D(x=1202, y=-1126,z=0)
+line3D(x=942, y=-1350,z=0)
+line3D(x=644, y=-1516,z=0)
+line3D(x=315, y=-1616,z=0)
+line3D(x=-25, y=-1646,z=0)
+line3D(x=-365, y=-1606,z=0)
+line3D(x=656, y=1885,z=0)
+line3D(x=971, y=1744,z=0)
+line3D(x=1258, y=1551,z=0)
+line3D(x=1505, y=1311,z=0)
+line3D(x=1710, y=1031,z=0)
+line3D(x=1861, y=721,z=0)
+line3D(x=1958, y=390,z=0)
+line3D(x=1996, y=46,z=0)
+line3D(x=1973, y=-298,z=0)
+line3D(x=1893, y=-635,z=0)
+line3D(x=1755, y=-951,z=0)
+line3D(x=1565, y=-1239,z=0)
+line3D(x=1328, y=-1491,z=0)
+line3D(x=1051, y=-1697,z=0)
+line3D(x=743, y=-1853,z=0)
+line3D(x=412, y=-1953, z=0)
+
+dispenseon
+segmentproperty3D(sp=10; 1; 1)
+segmentproperty3D(sp=10; 1; 2)
+segmentproperty3D(sp=10; 1; 3)
+segmentproperty3D(sp=10; 1; 4)
+segmentproperty3D(sp=10; 1; 5)
+segmentproperty3D(sp=10; 1; 6)
+segmentproperty3D(sp=10; 1; 7)
+segmentproperty3D(sp=10; 1; 8)
+segmentproperty3D(sp=10; 1; 9)
+segmentproperty3D(sp=10; 1; 10)
+segmentproperty3D(sp=10; 1; 11)
+segmentproperty3D(sp=10; 1; 12)
+segmentproperty3D(sp=10; 1; 13)
+segmentproperty3D(sp=10; 1; 14)
+segmentproperty3D(sp=10; 1; 15)
+segmentproperty3D(sp=10; 1; 16)
+segmentproperty3D(sp=10; 1; 17)
+segmentproperty3D(sp=10; 1; 18)
+segmentproperty3D(sp=10; 1; 19)
+segmentproperty3D(sp=10; 1; 20)
+segmentproperty3D(sp=10; 1; 21)
+segmentproperty3D(sp=10; 1; 22)
+segmentproperty3D(sp=10; 1; 23)
+segmentproperty3D(sp=10; 1; 24)
+segmentproperty3D(sp=10; 1; 25)
+segmentproperty3D(sp=10; 1; 26)
+segmentproperty3D(sp=10; 1; 27)
+segmentproperty3D(sp=10; 1; 28)
+segmentproperty3D(sp=10; 1; 29)
+segmentproperty3D(sp=10; 1; 30)
+segmentproperty3D(sp=10; 1; 31)
+segmentproperty3D(sp=10; 1; 32)
+segmentproperty3D(sp=10; 1; 33)
+segmentproperty3D(sp=10; 1; 34)
+
+contiend
+ptp(x=78923, y=-156676, z=-144; sp=100)
+ptp(x=78923, y=-156676, z=-144; sp=150)
+
+contibuffer
+
+dispenseon
+
+line3D(x=24437, y=0, z=0)
+line3D(x=0, y=0, z=4)
+segmentproperty3D(sp=10; 1; 1)
+
+segmentproperty3D(sp=1; 0; 2)
+dispenseoff
+delay(1.000)
+ptp(x=103360, y=-156676, z=-144; sp=10)
+ptp(x=103360, y=-156676, z=-144; sp=150)
+
+ptp (x=0, y=0, z=0; sp =77777)
+
+ptp (x=55555, y=55555, z=55555; sp =55555)
+
+ptp (x=00000, y=00000, z=00000; sp =10101)
+
+ptp (x=11111, y=11111, z=11111; sp =11111)
+
+ptp(x=51181, y=-154879, z=0; sp=100)
+ptp(x=51181, y=-154879, z=-144; sp=150)
+
+contibuffer
+
+dispenseon
+
+delay(1.000)
+line3D(x=-289, y=1621,z=0)
+line3D(x=53, y=1646,z=0)
+line3D(x=393, y=1599,z=0)
+line3D(x=714, y=1484,z=0)
+line3D(x=1006, y=1304,z=0)
+line3D(x=1254, y=1067,z=0)
+line3D(x=1447, y=785,z=0)
+line3D(x=1579, y=469,z=0)
+line3D(x=1641, y=132,z=0)
+line3D(x=1633, y=-210,z=0)
+line3D(x=1555, y=-543,z=0)
+line3D(x=1408, y=-853,z=0)
+line3D(x=1202, y=-1126,z=0)
+line3D(x=942, y=-1350,z=0)
+line3D(x=644, y=-1516,z=0)
+line3D(x=315, y=-1616,z=0)
+line3D(x=-25, y=-1646,z=0)
+line3D(x=-365, y=-1606,z=0)
+line3D(x=656, y=1885,z=0)
+line3D(x=971, y=1744,z=0)
+line3D(x=1258, y=1551,z=0)
+line3D(x=1505, y=1311,z=0)
+line3D(x=1710, y=1031,z=0)
+line3D(x=1861, y=721,z=0)
+line3D(x=1958, y=390,z=0)
+line3D(x=1996, y=46,z=0)
+line3D(x=1973, y=-298,z=0)
+line3D(x=1893, y=-635,z=0)
+line3D(x=1755, y=-951,z=0)
+line3D(x=1565, y=-1239,z=0)
+line3D(x=1328, y=-1491,z=0)
+line3D(x=1051, y=-1697,z=0)
+line3D(x=743, y=-1853,z=0)
+line3D(x=412, y=-1953, z=0)
+
+dispenseon
+segmentproperty3D(sp=10; 1; 1)
+segmentproperty3D(sp=10; 1; 2)
+segmentproperty3D(sp=10; 1; 3)
+segmentproperty3D(sp=10; 1; 4)
+segmentproperty3D(sp=10; 1; 5)
+segmentproperty3D(sp=10; 1; 6)
+segmentproperty3D(sp=10; 1; 7)
+segmentproperty3D(sp=10; 1; 8)
+segmentproperty3D(sp=10; 1; 9)
+segmentproperty3D(sp=10; 1; 10)
+segmentproperty3D(sp=10; 1; 11)
+segmentproperty3D(sp=10; 1; 12)
+segmentproperty3D(sp=10; 1; 13)
+segmentproperty3D(sp=10; 1; 14)
+segmentproperty3D(sp=10; 1; 15)
+segmentproperty3D(sp=10; 1; 16)
+segmentproperty3D(sp=10; 1; 17)
+segmentproperty3D(sp=10; 1; 18)
+segmentproperty3D(sp=10; 1; 19)
+segmentproperty3D(sp=10; 1; 20)
+segmentproperty3D(sp=10; 1; 21)
+segmentproperty3D(sp=10; 1; 22)
+segmentproperty3D(sp=10; 1; 23)
+segmentproperty3D(sp=10; 1; 24)
+segmentproperty3D(sp=10; 1; 25)
+segmentproperty3D(sp=10; 1; 26)
+segmentproperty3D(sp=10; 1; 27)
+segmentproperty3D(sp=10; 1; 28)
+segmentproperty3D(sp=10; 1; 29)
+segmentproperty3D(sp=10; 1; 30)
+segmentproperty3D(sp=10; 1; 31)
+segmentproperty3D(sp=10; 1; 32)
+segmentproperty3D(sp=10; 1; 33)
+segmentproperty3D(sp=10; 1; 34)
+
+contiend
+ptp(x=88923, y=-156676, z=-144; sp=100)
+ptp(x=88923, y=-156676, z=-144; sp=150)
+
+contibuffer
+
+dispenseon
+
+line3D(x=24437, y=0, z=0)
+line3D(x=0, y=0, z=4)
+segmentproperty3D(sp=10; 1; 1)
+
+segmentproperty3D(sp=1; 0; 2)
+dispenseoff
+delay(1.000)
+ptp(x=113360, y=-156676, z=-144; sp=10)
+ptp(x=113360, y=-156676, z=-144; sp=150)
+

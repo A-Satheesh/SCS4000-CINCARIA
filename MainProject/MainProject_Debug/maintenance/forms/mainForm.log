@@ -1,0 +1,102 @@
+Line 98: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel39 was not a loaded control class.
+Line 156: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel37 was not a loaded control class.
+Line 165: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel36 was not a loaded control class.
+Line 195: Class ACTIVESKINLibCtl.SkinLabel of control LimitReachedLabel was not a loaded control class.
+Line 353: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel27 was not a loaded control class.
+Line 361: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel26 was not a loaded control class.
+Line 369: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel25 was not a loaded control class.
+Line 398: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel21 was not a loaded control class.
+Line 406: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel17 was not a loaded control class.
+Line 414: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel16 was not a loaded control class.
+Line 422: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel15 was not a loaded control class.
+Line 430: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel12 was not a loaded control class.
+Line 438: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel11 was not a loaded control class.
+Line 446: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel10 was not a loaded control class.
+Line 475: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel9 was not a loaded control class.
+Line 483: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel8 was not a loaded control class.
+Line 491: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel7 was not a loaded control class.
+Line 499: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel6 was not a loaded control class.
+Line 515: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel24 was not a loaded control class.
+Line 531: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel23 was not a loaded control class.
+Line 539: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel22 was not a loaded control class.
+Line 547: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel5 was not a loaded control class.
+Line 555: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel4 was not a loaded control class.
+Line 577: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel3 was not a loaded control class.
+Line 585: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 593: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 655: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 660: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel20 was not a loaded control class.
+Line 668: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel19 was not a loaded control class.
+Line 676: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel18 was not a loaded control class.
+Line 747: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel13 was not a loaded control class.
+Line 755: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel14 was not a loaded control class.
+Line 763: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel28 was not a loaded control class.
+Line 771: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel29 was not a loaded control class.
+Line 779: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel30 was not a loaded control class.
+Line 787: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel31 was not a loaded control class.
+Line 795: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel32 was not a loaded control class.
+Line 810: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel35 was not a loaded control class.
+Line 818: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel34 was not a loaded control class.
+Line 826: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel33 was not a loaded control class.
+Line 835: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel36 was not a loaded control class.
+Line 844: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel37 was not a loaded control class.
+Line 853: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel38 was not a loaded control class.
+Line 862: Class ACTIVESKINLibCtl.SkinLabel of control LabelDistance was not a loaded control class.
+Line 881: Class ACTIVESKINLibCtl.SkinLabel of control SolventPosition was not a loaded control class.
+Line 889: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel40 was not a loaded control class.
+Line 897: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel41 was not a loaded control class.
+Line 905: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel42 was not a loaded control class.
+Line 913: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel43 was not a loaded control class.
+Line 921: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel44 was not a loaded control class.
+Line 929: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel45 was not a loaded control class.
+Line 101: The property name OleObjectBlob in SkinLabel39 is invalid.
+Line 160: The property name OleObjectBlob in SkinLabel37 is invalid.
+Line 169: The property name OleObjectBlob in SkinLabel36 is invalid.
+Line 198: The property name OleObjectBlob in LimitReachedLabel is invalid.
+Line 356: The property name OleObjectBlob in SkinLabel27 is invalid.
+Line 364: The property name OleObjectBlob in SkinLabel26 is invalid.
+Line 372: The property name OleObjectBlob in SkinLabel25 is invalid.
+Line 401: The property name OleObjectBlob in SkinLabel21 is invalid.
+Line 409: The property name OleObjectBlob in SkinLabel17 is invalid.
+Line 417: The property name OleObjectBlob in SkinLabel16 is invalid.
+Line 425: The property name OleObjectBlob in SkinLabel15 is invalid.
+Line 433: The property name OleObjectBlob in SkinLabel12 is invalid.
+Line 441: The property name OleObjectBlob in SkinLabel11 is invalid.
+Line 449: The property name OleObjectBlob in SkinLabel10 is invalid.
+Line 478: The property name OleObjectBlob in SkinLabel9 is invalid.
+Line 486: The property name OleObjectBlob in SkinLabel8 is invalid.
+Line 494: The property name OleObjectBlob in SkinLabel7 is invalid.
+Line 502: The property name OleObjectBlob in SkinLabel6 is invalid.
+Line 518: The property name OleObjectBlob in SkinLabel24 is invalid.
+Line 534: The property name OleObjectBlob in SkinLabel23 is invalid.
+Line 542: The property name OleObjectBlob in SkinLabel22 is invalid.
+Line 550: The property name OleObjectBlob in SkinLabel5 is invalid.
+Line 558: The property name OleObjectBlob in SkinLabel4 is invalid.
+Line 580: The property name OleObjectBlob in SkinLabel3 is invalid.
+Line 588: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 596: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 657: The property name OleObjectBlob in Skin1 is invalid.
+Line 663: The property name OleObjectBlob in SkinLabel20 is invalid.
+Line 671: The property name OleObjectBlob in SkinLabel19 is invalid.
+Line 679: The property name OleObjectBlob in SkinLabel18 is invalid.
+Line 750: The property name OleObjectBlob in SkinLabel13 is invalid.
+Line 758: The property name OleObjectBlob in SkinLabel14 is invalid.
+Line 766: The property name OleObjectBlob in SkinLabel28 is invalid.
+Line 774: The property name OleObjectBlob in SkinLabel29 is invalid.
+Line 782: The property name OleObjectBlob in SkinLabel30 is invalid.
+Line 790: The property name OleObjectBlob in SkinLabel31 is invalid.
+Line 798: The property name OleObjectBlob in SkinLabel32 is invalid.
+Line 813: The property name OleObjectBlob in SkinLabel35 is invalid.
+Line 821: The property name OleObjectBlob in SkinLabel34 is invalid.
+Line 829: The property name OleObjectBlob in SkinLabel33 is invalid.
+Line 839: The property name OleObjectBlob in SkinLabel36 is invalid.
+Line 848: The property name OleObjectBlob in SkinLabel37 is invalid.
+Line 857: The property name OleObjectBlob in SkinLabel38 is invalid.
+Line 865: The property name OleObjectBlob in LabelDistance is invalid.
+Line 884: The property name OleObjectBlob in SolventPosition is invalid.
+Line 892: The property name OleObjectBlob in SkinLabel40 is invalid.
+Line 900: The property name OleObjectBlob in SkinLabel41 is invalid.
+Line 908: The property name OleObjectBlob in SkinLabel42 is invalid.
+Line 916: The property name OleObjectBlob in SkinLabel43 is invalid.
+Line 924: The property name OleObjectBlob in SkinLabel44 is invalid.
+Line 932: The property name OleObjectBlob in SkinLabel45 is invalid.

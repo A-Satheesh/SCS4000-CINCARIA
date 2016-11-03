@@ -1,0 +1,107 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\actskn43.ocx=
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\ADS1240.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comct332.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\maintenance.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\ADS1240.dll=Yes
+C:\WINDOWS\system32\actskn43.ocx=Yes
+C:\WINDOWS\system32\comct332.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\maintenance.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\ADS1240.dll=$(WinSysPath)
+C:\WINDOWS\system32\actskn43.ocx=$(WinSysPath)
+C:\WINDOWS\system32\comct332.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\maintenance.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title= Maintenance
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0= Maintenance
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1| Maintenance]
+Icon1=maintenance.exe
+Title1= Maintenance
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\Package
+ProjectFolder=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance
+ServerSideCab=
+File1=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\Package\setup.exe
+File2=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\Package\Setup.Lst
+File3=C:\Documents and Settings\Aye Min Tun\Desktop\without visiion - spray ( conveyor, OffsetXYZ (G), cha_dis_pro, txt_error,read reference,dispense time,) 06-01-09\Main Program\maintenance\Package\maintenance.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

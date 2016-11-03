@@ -1,0 +1,66 @@
+ILS3000
+Techno Digm with vision (laser high sense,OffSet Hone Mai v.5) 22-10-11
+1. Change 3D arc and recatangel
+2.Change the dispensing procedure.
+3.Separate "Offset" and "modify".
+4.Check every text boxes.
+5.Offset or Modify the reference point, all points below it will be changed automatically.
+6.Read and show the corrected position while loading the old program.
+7.Save 'Dispensing Time' in production mode.
+8.Always conveyor 'Enable'.
+9.Modify 'Purge position' in production run
+10.Dispense one cycle completely although the user presses "Pause" button.
+
+16-07-08
+1.Integrate the "GlobalOffset" and "Global Dispense Time/Travel Speed".
+
+12-08-08
+1.Change potting depth, pot line heigt, retract height and move height to positive value.
+2.Modify all "Teach On/Off" button.
+3.Integrate "Tab Key" only for X, Y and Z coordinates.
+
+13-08-08
+1.Check the existing file for part array.
+
+20-08-08
+1.Modify the array procedure of dot, dot potting and line potting a little bit because of system processing time delay.
+2.Change the accelaration and speed rate to 3G.
+
+07-10-08
+1.Do "reference" error.
+
+18-12-08 (Testing laser sensor)
+1.For laser sensor, use "U_IN2" as input signal.
+2.Put the offset value between upper camera and needle. (Camera teach)
+3.Modiy "Offset" button for expanded array.
+4.Change the caption from "Epoxy Editor" to "Profile Editor".
+5.Modify the SystemHome Position in "Maintenance".
+6.Change the sign for the offset value because the mounting for camera is wrong.
+
+16-06-09
+1. New Vision Dll (gear ration=1000)
+2. Recalculate the calibration high after changing a new needle.
+
+
+//////////////////////////////////////////
+//	Testing "Links Line with Arc"	//
+//////////////////////////////////////////
+23-12-09 
+1.Put a small arc between two lines.
+2.Close valve when the user presses "Abort" button.
+3.Modify valve's "ON/OFF" of rectangle and small arc from "Always ON"
+4.Remove the error checking in "Execution part"
+5.Test "Fiducial" in "Production Run".
+6.Modify "Part array" in "Preporcess pattern".
+7.Double click and load the old program. 
+
+05-04-10
+1.User can choose whether they want to put a small arc between two lines or not.
+2.The system can teach the position with both methods, Vision or Needle.
+3.Allow the user to choose whether they want to recalibrate or abort.
+4.Modify "vision and needle" teach
+5.Modify the maximum lighting as "85"
+6.Reinitialize the "system Move Height" after finishing the translation because an error occur when the translation is fail.
+
+Note: "No Arc"
+

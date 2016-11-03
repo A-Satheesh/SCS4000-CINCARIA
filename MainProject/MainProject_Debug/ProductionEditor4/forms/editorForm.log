@@ -1,0 +1,64 @@
+Line 22: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 70: Class ACTIVESKINLibCtl.SkinLabel of control LimitReachedLabel was not a loaded control class.
+Line 79: Class ACTIVESKINLibCtl.SkinLabel of control NeedleOffsetErrMsg was not a loaded control class.
+Line 125: Class ACTIVESKINLibCtl.SkinLabel of control FudMsgText was not a loaded control class.
+Line 192: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel27 was not a loaded control class.
+Line 405: Class ACTIVESKINLibCtl.SkinLabel of control pathFileNameLabel was not a loaded control class.
+Line 436: Class ACTIVESKINLibCtl.SkinLabel of control moveHeightLabel was not a loaded control class.
+Line 451: Class ACTIVESKINLibCtl.SkinLabel of control delayLabel was not a loaded control class.
+Line 459: Class ACTIVESKINLibCtl.SkinLabel of control endDispenseHeightLabel was not a loaded control class.
+Line 467: Class ACTIVESKINLibCtl.SkinLabel of control depthSpeedLabel was not a loaded control class.
+Line 496: Class ACTIVESKINLibCtl.SkinLabel of control PotDepthLabel was not a loaded control class.
+Line 521: Class ACTIVESKINLibCtl.SkinLabel of control DispenseTimeLabel was not a loaded control class.
+Line 529: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel20 was not a loaded control class.
+Line 537: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel19 was not a loaded control class.
+Line 545: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel18 was not a loaded control class.
+Line 578: Class ACTIVESKINLibCtl.SkinLabel of control NodeLabel was not a loaded control class.
+Line 586: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel16 was not a loaded control class.
+Line 594: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel15 was not a loaded control class.
+Line 602: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel14 was not a loaded control class.
+Line 610: Class ACTIVESKINLibCtl.SkinLabel of control yRepeatNumLabel was not a loaded control class.
+Line 618: Class ACTIVESKINLibCtl.SkinLabel of control yDevLabel was not a loaded control class.
+Line 626: Class ACTIVESKINLibCtl.SkinLabel of control xRepeatNumLabel was not a loaded control class.
+Line 634: Class ACTIVESKINLibCtl.SkinLabel of control xDevLabel was not a loaded control class.
+Line 642: Class ACTIVESKINLibCtl.SkinLabel of control retractDelayLabel was not a loaded control class.
+Line 650: Class ACTIVESKINLibCtl.SkinLabel of control withDrawalSpeedLabel was not a loaded control class.
+Line 658: Class ACTIVESKINLibCtl.SkinLabel of control withDrawalZLabel was not a loaded control class.
+Line 666: Class ACTIVESKINLibCtl.SkinLabel of control dispenseSpeedLabel was not a loaded control class.
+Line 674: Class ACTIVESKINLibCtl.SkinLabel of control dispensePtZLabel was not a loaded control class.
+Line 682: Class ACTIVESKINLibCtl.SkinLabel of control YLabel was not a loaded control class.
+Line 690: Class ACTIVESKINLibCtl.SkinLabel of control XLabel was not a loaded control class.
+Line 698: Class ACTIVESKINLibCtl.SkinLabel of control NodeTypeLabel was not a loaded control class.
+Line 706: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 25: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 73: The property name OleObjectBlob in LimitReachedLabel is invalid.
+Line 82: The property name OleObjectBlob in NeedleOffsetErrMsg is invalid.
+Line 128: The property name OleObjectBlob in FudMsgText is invalid.
+Line 195: The property name OleObjectBlob in SkinLabel27 is invalid.
+Line 408: The property name OleObjectBlob in pathFileNameLabel is invalid.
+Line 439: The property name OleObjectBlob in moveHeightLabel is invalid.
+Line 454: The property name OleObjectBlob in delayLabel is invalid.
+Line 462: The property name OleObjectBlob in endDispenseHeightLabel is invalid.
+Line 470: The property name OleObjectBlob in depthSpeedLabel is invalid.
+Line 499: The property name OleObjectBlob in PotDepthLabel is invalid.
+Line 524: The property name OleObjectBlob in DispenseTimeLabel is invalid.
+Line 532: The property name OleObjectBlob in SkinLabel20 is invalid.
+Line 540: The property name OleObjectBlob in SkinLabel19 is invalid.
+Line 548: The property name OleObjectBlob in SkinLabel18 is invalid.
+Line 581: The property name OleObjectBlob in NodeLabel is invalid.
+Line 589: The property name OleObjectBlob in SkinLabel16 is invalid.
+Line 597: The property name OleObjectBlob in SkinLabel15 is invalid.
+Line 605: The property name OleObjectBlob in SkinLabel14 is invalid.
+Line 613: The property name OleObjectBlob in yRepeatNumLabel is invalid.
+Line 621: The property name OleObjectBlob in yDevLabel is invalid.
+Line 629: The property name OleObjectBlob in xRepeatNumLabel is invalid.
+Line 637: The property name OleObjectBlob in xDevLabel is invalid.
+Line 645: The property name OleObjectBlob in retractDelayLabel is invalid.
+Line 653: The property name OleObjectBlob in withDrawalSpeedLabel is invalid.
+Line 661: The property name OleObjectBlob in withDrawalZLabel is invalid.
+Line 669: The property name OleObjectBlob in dispenseSpeedLabel is invalid.
+Line 677: The property name OleObjectBlob in dispensePtZLabel is invalid.
+Line 685: The property name OleObjectBlob in YLabel is invalid.
+Line 693: The property name OleObjectBlob in XLabel is invalid.
+Line 701: The property name OleObjectBlob in NodeTypeLabel is invalid.
+Line 708: The property name OleObjectBlob in Skin1 is invalid.

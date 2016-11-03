@@ -1,0 +1,36 @@
+videoFormat = M_CCIR
+
+settingID = 0
+lightIntensity = 100
+scale = 0.010000, 0.010000
+rotation = 0.000000
+markerPos1 = 0.010000, 0.010000
+markerPos2 = 0.010000, 0.010000
+cursorSize = 100, 100
+searchArea = 120, 120
+threshold = 128
+acceptance = 40.000000
+
+settingID = 1
+lightIntensity = 100
+scale = 0.010765, -0.010744
+rotation = -179.525098
+markerPos1 = 18.624000, -191.980000
+markerPos2 = -2.858696, 1.836957
+cursorSize = 100, 100
+searchArea = 120, 120
+threshold = 128
+acceptance = 40.000000
+
+settingID = 2
+lightIntensity = 50
+scale = 0.072547, -0.072674
+rotation = 0.485546
+markerPos1 = 292.025000, -426.509000
+markerPos2 = 19.950000, -8.575779
+cursorSize = 100, 100
+searchArea = 120, 120
+threshold = 128
+acceptance = 40.000000
+
+End_Of_File

@@ -1,0 +1,15 @@
+xyDefaultSpeed=100
+zDefaultSpeed=150
+systemMoveHeight=0
+xSystemHome=10
+ySystemHome=10
+zSystemHome=0
+xPurgePosition=337.41
+yPurgePosition=491.007
+zPurgePosition=30
+xDatum=0
+yDatum=0
+zDatum=0
+xSolventPos=172.56
+ySolventPos=467.39
+zSolventPos=60
